@@ -12,3 +12,4 @@ Original model is in the `*.slvs` files, created with [SolveSpace](https://solve
 
 The `.gcode` files are for the Creality Ender 3 Pro created with [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/).
 
+`light-pipe-bracket` is a piece intended to align a light pipe with the NeoPixel on the Feather. Its exact dimensions will probably not be right for anyone else's build.
